@@ -1,0 +1,9 @@
+/* // assets/css/app.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;v
+
+body {
+    background-color: rgb(205, 70, 70);
+}
